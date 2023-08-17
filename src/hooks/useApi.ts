@@ -54,7 +54,7 @@ export function useApi () {
             const response  = await Promise.race([responsePromise, timeoutPromise])
 
             if (!response.ok) {
-                throw new Error(`HTTP error! Status: ${response.status}`)
+                throw new Error(`HTTP error, Status: ${response.status}`)
             }
 
             setApiResponse ({
