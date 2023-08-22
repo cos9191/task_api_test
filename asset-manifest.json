@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/task_siberian_bear/static/css/main.964fdded.css",
-    "main.js": "/task_siberian_bear/static/js/main.e568b91c.js",
+    "main.js": "/task_siberian_bear/static/js/main.1c1a5d3e.js",
     "index.html": "/task_siberian_bear/index.html",
     "main.964fdded.css.map": "/task_siberian_bear/static/css/main.964fdded.css.map",
-    "main.e568b91c.js.map": "/task_siberian_bear/static/js/main.e568b91c.js.map"
+    "main.1c1a5d3e.js.map": "/task_siberian_bear/static/js/main.1c1a5d3e.js.map"
   },
   "entrypoints": [
     "static/css/main.964fdded.css",
-    "static/js/main.e568b91c.js"
+    "static/js/main.1c1a5d3e.js"
   ]
 }
