@@ -5,7 +5,7 @@ import { Loader } from './components/Loader'
 
 function App() {
 
-    const URL = 'http://jsonplaceholder.typicode.com/posts?_limit=5'
+    const URL = 'https://jsonplaceholder.typicode.com/posts?_limit=5'
 
     const { fetchData, apiResponse, isLoading, apiError } = useApi()
     const [loaderShowTime, setLoaderShowTime] = useState(1000)
